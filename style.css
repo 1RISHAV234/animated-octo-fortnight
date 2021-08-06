@@ -1,0 +1,81 @@
+#submit_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#sort_button
+{
+	display: none;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+
+input
+{
+	margin: 10px;
+}
+.display_name_with_commas
+{
+	border: 1px solid green;
+    padding: 10px;
+	background-color: greenyellow;
+	border-radius: 10px;
+    width: 50%;
+}
+
+#display_name_without_commas
+{
+	border: 1px solid red;
+    padding: 10px;
+    background-color: lightcoral;
+	border-radius: 10px;
+    width: 50%;
+}
+body {
+	background:linear-gradient(320deg, #ffefc4 0%, green 50%, #1900ff 75%)
+}
+button {
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-radius: 20px;
+	border-style: none;
+	color: white;
+	font-size: 15px;
+	background-color: black;
+	cursor: pointer;
+}
+h3 {
+	font-size: 35px;
+	font-family: Segoe UI;
+	color: white;
+}
+hr {
+	border: 0.5px dotted white;
+}
+input {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 40px;
+	border-radius: 10px;
+	border: none;
+}
+div {
+	color: white;
+	font-family: 'Segoe UI';
+	font-size: 17px;
+}
+p {
+	color: white;
+	font-family: 'Segoe UI';
+	font-size: 17px;
+}
+#idk {
+	font-size: 25px;
+	color: white
+}
+#myVideo {
+	border-radius: 20px;
+    border: 10px solid white;
+}
